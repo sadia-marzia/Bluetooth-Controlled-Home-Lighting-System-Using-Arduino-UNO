@@ -19,16 +19,19 @@ This project implements a Bluetooth-controlled home lighting system using an Ard
 
 ### Circuit Diagram
 ![Circuit Diagram](images/circuit_diagram.png)
+
 Figure 1: Circuit connection of the Bluetooth Controlled Home Lighting System
 
 ### Block Diagram
 ![Block Diagram](images/block_diagram.png)
+
 Figure 2: Block diagram of the Bluetooth Controlled Home Lighting System
 
 ## Code
 The Arduino code is included in the repository. It handles Bluetooth communication, light control, and LDR-based logic for the balcony light.
 ## Output Implemented Picture
 ![Output Implemented](images/output_implemented.png)
+
 Figure 3: Working of the system, showing the implemented setup controlling lights via Bluetooth and LDR.
 
 ## Results
